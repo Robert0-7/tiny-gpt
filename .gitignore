@@ -1,0 +1,5 @@
+tiny_gpt.pt
+*.pt
+input.txt
+anaconda_projects/
+.ipynb_checkpoints/
